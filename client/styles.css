@@ -15,3 +15,7 @@ h1 {
 h2 {
     color:darkblue;
 }
+
+#embed-video {
+    display:hidden;
+}
