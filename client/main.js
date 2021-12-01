@@ -6,3 +6,4 @@ let video = document.querySelector('#embed-video')
 imgTag.addEventListener('click', () => {
     video.style.display = 'block'
 })
+
